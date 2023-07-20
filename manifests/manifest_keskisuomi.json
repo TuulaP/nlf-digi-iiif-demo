@@ -14,8 +14,8 @@
     "@value" : "Keski-Suomi 29.9.1906",
     "@language" : "en"
   } ],
-  "license" : "https://creativecommons.org/licenses/by/3.0/",
-  "attribution" : "[Click to edit attribution]",
+  "license" : "https://creativecommons.org/licenses/by/4.0/",
+  "attribution" : "National Library of Finland",
   "sequences" : [ {
     "@id" : "http://30ebab0e-1080-4951-a661-19c8456b4860",
     "@type" : "sc:Sequence",
