@@ -46,7 +46,12 @@
         },
         "on" : "http://402bf829-e904-4e63-8e8a-df0e63c87f6e"
       } ],
-      "related" : "https://digi.kansalliskirjasto.fi/sanomalehti/binding/787431/page-1.xml"
+      "related" : "https://digi.kansalliskirjasto.fi/sanomalehti/binding/787431/page-1.xml",
+      "seeAlso" : {
+        "@id" : "https://digi.kansalliskirjasto.fi/sanomalehti/binding/787431/page-1.xml",
+        "profile" : "http://www.loc.gov/standards/alto/ns-v4#",
+        "format" : "text/xml"
+      }
     }, {
       "@id" : "http://c2946c8d-22cf-4456-b303-3aade9f3936d",
       "@type" : "sc:Canvas",
@@ -76,7 +81,12 @@
         },
         "on" : "http://c2946c8d-22cf-4456-b303-3aade9f3936d"
       } ],
-      "related" : "https://digi.kansalliskirjasto.fi/sanomalehti/binding/787431/page-2.xml"
+      "related" : "https://digi.kansalliskirjasto.fi/sanomalehti/binding/787431/page-2.xml",
+      "seeAlso" : {
+        "@id" : "https://digi.kansalliskirjasto.fi/sanomalehti/binding/787431/page-2.xml",
+        "profile" : "http://www.loc.gov/standards/alto/ns-v4#",
+        "format" : "text/xml"
+      }
     }, {
       "@id" : "http://78c0f0a9-cc87-4b7c-8bcb-a655c531695d",
       "@type" : "sc:Canvas",
@@ -106,7 +116,12 @@
         },
         "on" : "http://78c0f0a9-cc87-4b7c-8bcb-a655c531695d"
       } ],
-      "related" : "https://digi.kansalliskirjasto.fi/sanomalehti/binding/787431/page-3.xml"
+      "related" : "https://digi.kansalliskirjasto.fi/sanomalehti/binding/787431/page-3.xml",
+      "seeAlso" : {
+        "@id" : "https://digi.kansalliskirjasto.fi/sanomalehti/binding/787431/page-3.xml",
+        "profile" : "http://www.loc.gov/standards/alto/ns-v4#",
+        "format" : "text/xml"
+      }
     }, {
       "@id" : "http://c7f286b2-b893-4ae4-8b4e-43741e0c5dc3",
       "@type" : "sc:Canvas",
@@ -136,7 +151,12 @@
         },
         "on" : "http://c7f286b2-b893-4ae4-8b4e-43741e0c5dc3"
       } ],
-      "related" : "https://digi.kansalliskirjasto.fi/sanomalehti/binding/787431/page-4.xml"
+      "related" : "https://digi.kansalliskirjasto.fi/sanomalehti/binding/787431/page-4.xml",
+      "seeAlso" : {
+        "@id" : "https://digi.kansalliskirjasto.fi/sanomalehti/binding/787431/page-4.xml",
+        "profile" : "http://www.loc.gov/standards/alto/ns-v4#",
+        "format" : "text/xml"
+      }
     } ]
   } ],
   "structures" : [ ]
