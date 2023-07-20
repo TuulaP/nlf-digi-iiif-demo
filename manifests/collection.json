@@ -13,5 +13,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://TuulaP.github.io/nlf-digi-iiif-demo/manifests/manifest_wiipuri.json",
     "label" : "Wiipuri, 15.2.1907"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://TuulaP.github.io/nlf-digi-iiif-demo/manifests/manifest_wiipuri1902.json",
+    "label" : "Wiipuri, 25.11.1902"
   } ]
 }
