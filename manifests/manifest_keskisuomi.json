@@ -3,9 +3,15 @@
   "@id" : "https://TuulaP.github.io/nlf-digi-iiif-demo/manifests/manifest_keskisuomi.json",
   "@type" : "sc:Manifest",
   "label" : "Keski-Suomi 29.9.1906",
-  "metadata" : [ ],
+  "metadata" : [ {
+    "label" : "Attribution",
+    "value" : "National Library of Finland"
+  }, {
+    "label" : "Material type",
+    "value" : "Newspaper"
+  } ],
   "description" : [ {
-    "@value" : "[Click to edit description]",
+    "@value" : "Keski-Suomi 29.9.1906",
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
@@ -49,8 +55,9 @@
       "related" : "https://digi.kansalliskirjasto.fi/sanomalehti/binding/1047467/page-1.xml",
       "seeAlso" : {
         "@id" : "https://digi.kansalliskirjasto.fi/sanomalehti/binding/1047467/page-1.xml",
-        "profile" : "http://www.loc.gov/standards/alto/ns-v4#",
-        "format" : "text/xml"
+        "profile" : "http://www.loc.gov/standards/alto/v4/alto.xsd",
+        "format" : "text/xml",
+        "label" : "METS-ALTO XML"
       }
     }, {
       "@id" : "http://19551dce-d34e-4b77-92f6-8b0dc3d7bc00",
@@ -84,8 +91,9 @@
       "related" : "",
       "seeAlso" : {
         "@id" : "https://digi.kansalliskirjasto.fi/sanomalehti/binding/1047467/page-2.xml",
-        "profile" : "http://www.loc.gov/standards/alto/ns-v4#",
-        "format" : "text/xml"
+        "profile" : "http://www.loc.gov/standards/alto/v4/alto.xsd",
+        "format" : "text/xml",
+        "label" : "METS-ALTO XML"
       }
     }, {
       "@id" : "http://cbfde082-df83-4ed3-923c-3343e0ffec55",
@@ -119,8 +127,9 @@
       "related" : "",
       "seeAlso" : {
         "@id" : "https://digi.kansalliskirjasto.fi/sanomalehti/binding/1047467/page-3.xml",
-        "profile" : "http://www.loc.gov/standards/alto/ns-v4#",
-        "format" : "text/xml"
+        "profile" : "http://www.loc.gov/standards/alto/v4/alto.xsd",
+        "format" : "text/xml",
+        "label" : "METS-ALTO XML"
       }
     }, {
       "@id" : "http://5a12c2a1-6fb8-456b-b668-0fd272cfaba4",
@@ -154,8 +163,9 @@
       "related" : "",
       "seeAlso" : {
         "@id" : "https://digi.kansalliskirjasto.fi/sanomalehti/binding/1047467/page-4.xml",
-        "profile" : "http://www.loc.gov/standards/alto/ns-v4#",
-        "format" : "text/xml"
+        "profile" : "http://www.loc.gov/standards/alto/v4/alto.xsd",
+        "format" : "text/xml",
+        "label" : "METS-ALTO XML"
       }
     } ]
   } ],
