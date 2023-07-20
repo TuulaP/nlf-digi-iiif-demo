@@ -1,0 +1,163 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://TuulaP.github.io/nlf-digi-iiif-demo/manifests/manifest_wiipuri.json",
+  "@type" : "sc:Manifest",
+  "label" : "Wiipuri, 15.2.1907",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://49ad644f-2542-4d70-aa3f-d2ad4ddc026a",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://69ec63dd-1f84-4f53-bd77-c7e3a9f1a97a",
+      "@type" : "sc:Canvas",
+      "label" : "Page 1",
+      "height" : 3491,
+      "width" : 2578,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://bb66f2b1-15ee-4693-9597-f1addcc68543",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.europeana.eu/image/5SUX2W7PAA56HO2LMXR7IQLOBPW4QMOA4P6I3DJ3QS2GNOPH5MHQ/presentation_images/f357c250-0221-11e6-a696-fa163e2dd531/node-4/image/NLF/Wiipuri/1907/02/15/39_1/19070215_39_1-0001/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.europeana.eu/image/5SUX2W7PAA56HO2LMXR7IQLOBPW4QMOA4P6I3DJ3QS2GNOPH5MHQ/presentation_images/f357c250-0221-11e6-a696-fa163e2dd531/node-4/image/NLF/Wiipuri/1907/02/15/39_1/19070215_39_1-0001",
+            "profile" : [ "http://iiif.io/api/image/2/level1.json", {
+              "formats" : [ "jpg" ],
+              "qualities" : [ "native", "color", "gray" ],
+              "supports" : [ "regionByPct", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "rotationBy90s", "mirroring", "gray" ]
+            } ]
+          },
+          "height" : 3491,
+          "width" : 2578
+        },
+        "on" : "http://69ec63dd-1f84-4f53-bd77-c7e3a9f1a97a"
+      } ],
+      "related" : "https://digi.kansalliskirjasto.fi/sanomalehti/binding/789209/page-1.xml",
+      "seeAlso" : {
+        "@id" : "https://digi.kansalliskirjasto.fi/sanomalehti/binding/789209/page-1.xml",
+        "profile" : "http://www.loc.gov/standards/alto/ns-v4#",
+        "format" : "text/xml"
+      }
+    }, {
+      "@id" : "http://c7f441d4-40b6-40d7-b2b1-8b8cb57b61d2",
+      "@type" : "sc:Canvas",
+      "label" : "Page 2",
+      "height" : 3504,
+      "width" : 2600,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://96c3d1f8-a027-4d43-a373-60b3ab3c7c63",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.europeana.eu/image/5SUX2W7PAA56HO2LMXR7IQLOBPW4QMOA4P6I3DJ3QS2GNOPH5MHQ/presentation_images/f357c250-0221-11e6-a696-fa163e2dd531/node-4/image/NLF/Wiipuri/1907/02/15/39_1/19070215_39_1-0002/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.europeana.eu/image/5SUX2W7PAA56HO2LMXR7IQLOBPW4QMOA4P6I3DJ3QS2GNOPH5MHQ/presentation_images/f357c250-0221-11e6-a696-fa163e2dd531/node-4/image/NLF/Wiipuri/1907/02/15/39_1/19070215_39_1-0002",
+            "profile" : [ "http://iiif.io/api/image/2/level1.json", {
+              "formats" : [ "jpg" ],
+              "qualities" : [ "native", "color", "gray" ],
+              "supports" : [ "regionByPct", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "rotationBy90s", "mirroring", "gray" ]
+            } ]
+          },
+          "height" : 3504,
+          "width" : 2600
+        },
+        "on" : "http://c7f441d4-40b6-40d7-b2b1-8b8cb57b61d2"
+      } ],
+      "related" : "https://digi.kansalliskirjasto.fi/sanomalehti/binding/789209/page-2.xml",
+      "seeAlso" : {
+        "@id" : "https://digi.kansalliskirjasto.fi/sanomalehti/binding/789209/page-2.xml",
+        "profile" : "http://www.loc.gov/standards/alto/ns-v4#",
+        "format" : "text/xml"
+      }
+    }, {
+      "@id" : "http://9a379514-5092-411b-913d-67a7f8c40e5e",
+      "@type" : "sc:Canvas",
+      "label" : "Page 3",
+      "height" : 3493,
+      "width" : 2580,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://04e72969-26f5-4fdb-a50a-8fa2799f6d0d",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.europeana.eu/image/5SUX2W7PAA56HO2LMXR7IQLOBPW4QMOA4P6I3DJ3QS2GNOPH5MHQ/presentation_images/f357c250-0221-11e6-a696-fa163e2dd531/node-4/image/NLF/Wiipuri/1907/02/15/39_1/19070215_39_1-0003/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.europeana.eu/image/5SUX2W7PAA56HO2LMXR7IQLOBPW4QMOA4P6I3DJ3QS2GNOPH5MHQ/presentation_images/f357c250-0221-11e6-a696-fa163e2dd531/node-4/image/NLF/Wiipuri/1907/02/15/39_1/19070215_39_1-0003",
+            "profile" : [ "http://iiif.io/api/image/2/level1.json", {
+              "formats" : [ "jpg" ],
+              "qualities" : [ "native", "color", "gray" ],
+              "supports" : [ "regionByPct", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "rotationBy90s", "mirroring", "gray" ]
+            } ]
+          },
+          "height" : 3493,
+          "width" : 2580
+        },
+        "on" : "http://9a379514-5092-411b-913d-67a7f8c40e5e"
+      } ],
+      "related" : "https://digi.kansalliskirjasto.fi/sanomalehti/binding/789209/page-3.xml",
+      "seeAlso" : {
+        "@id" : "https://digi.kansalliskirjasto.fi/sanomalehti/binding/789209/page-1.xml",
+        "profile" : "http://www.loc.gov/standards/alto/ns-v4#",
+        "format" : "text/xml"
+      }
+    }, {
+      "@id" : "http://9959a212-0d63-4e91-ad89-4aa3f0855e85",
+      "@type" : "sc:Canvas",
+      "label" : "Page 4",
+      "height" : 3480,
+      "width" : 2580,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f3f07133-b950-4779-8897-f1fc080658ad",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.europeana.eu/image/5SUX2W7PAA56HO2LMXR7IQLOBPW4QMOA4P6I3DJ3QS2GNOPH5MHQ/presentation_images/f357c250-0221-11e6-a696-fa163e2dd531/node-4/image/NLF/Wiipuri/1907/02/15/39_1/19070215_39_1-0004/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.europeana.eu/image/5SUX2W7PAA56HO2LMXR7IQLOBPW4QMOA4P6I3DJ3QS2GNOPH5MHQ/presentation_images/f357c250-0221-11e6-a696-fa163e2dd531/node-4/image/NLF/Wiipuri/1907/02/15/39_1/19070215_39_1-0004",
+            "profile" : [ "http://iiif.io/api/image/2/level1.json", {
+              "formats" : [ "jpg" ],
+              "qualities" : [ "native", "color", "gray" ],
+              "supports" : [ "regionByPct", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "rotationBy90s", "mirroring", "gray" ]
+            } ]
+          },
+          "height" : 3480,
+          "width" : 2580
+        },
+        "on" : "http://9959a212-0d63-4e91-ad89-4aa3f0855e85"
+      } ],
+      "related" : "https://digi.kansalliskirjasto.fi/sanomalehti/binding/789209/page-4.xml",
+      "seeAlso" : {
+        "@id" : "https://digi.kansalliskirjasto.fi/sanomalehti/binding/789209/page-1.xml",
+        "profile" : "http://www.loc.gov/standards/alto/ns-v4#",
+        "format" : "text/xml"
+      }
+    } ]
+  } ],
+  "structures" : [ ]
+}
