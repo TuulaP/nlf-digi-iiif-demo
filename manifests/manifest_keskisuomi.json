@@ -1,0 +1,163 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://TuulaP.github.io/nlf-digi-iiif-demo/manifests/manifest_keskisuomi.json",
+  "@type" : "sc:Manifest",
+  "label" : "Keski-Suomi 29.9.1906",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://30ebab0e-1080-4951-a661-19c8456b4860",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://f2d8b164-f95a-4aa9-a12a-58f2f02d6800",
+      "@type" : "sc:Canvas",
+      "label" : "Page 1",
+      "height" : 3584,
+      "width" : 2544,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://3dbd5226-4348-4d73-bb38-b482c7df154a",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.europeana.eu/image/FLYJ63OXQNU4LAYUW4GP7MXGAYQHASXB3QPZ5YJBBT2EHZ2WX5ZA/presentation_images/c7f11460-020b-11e6-a696-fa163e2dd531/node-4/image/NLF/Keski-Suomi/1906/09/29/19060929_00000/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.europeana.eu/image/FLYJ63OXQNU4LAYUW4GP7MXGAYQHASXB3QPZ5YJBBT2EHZ2WX5ZA/presentation_images/c7f11460-020b-11e6-a696-fa163e2dd531/node-4/image/NLF/Keski-Suomi/1906/09/29/19060929_00000",
+            "profile" : [ "http://iiif.io/api/image/2/level1.json", {
+              "formats" : [ "jpg" ],
+              "qualities" : [ "native", "color", "gray" ],
+              "supports" : [ "regionByPct", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "rotationBy90s", "mirroring", "gray" ]
+            } ]
+          },
+          "height" : 3584,
+          "width" : 2544
+        },
+        "on" : "http://f2d8b164-f95a-4aa9-a12a-58f2f02d6800"
+      } ],
+      "related" : "https://digi.kansalliskirjasto.fi/sanomalehti/binding/1047467/page-1.xml",
+      "seeAlso" : {
+        "@id" : "https://digi.kansalliskirjasto.fi/sanomalehti/binding/1047467/page-1.xml",
+        "profile" : "http://www.loc.gov/standards/alto/ns-v4#",
+        "format" : "text/xml"
+      }
+    }, {
+      "@id" : "http://19551dce-d34e-4b77-92f6-8b0dc3d7bc00",
+      "@type" : "sc:Canvas",
+      "label" : "Page 2",
+      "height" : 3568,
+      "width" : 2560,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://db22f87c-a6f8-47a2-9f7a-9a4a0af73c94",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.europeana.eu/image/FLYJ63OXQNU4LAYUW4GP7MXGAYQHASXB3QPZ5YJBBT2EHZ2WX5ZA/presentation_images/c7f11460-020b-11e6-a696-fa163e2dd531/node-4/image/NLF/Keski-Suomi/1906/09/29/19060929_00001/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.europeana.eu/image/FLYJ63OXQNU4LAYUW4GP7MXGAYQHASXB3QPZ5YJBBT2EHZ2WX5ZA/presentation_images/c7f11460-020b-11e6-a696-fa163e2dd531/node-4/image/NLF/Keski-Suomi/1906/09/29/19060929_00001",
+            "profile" : [ "http://iiif.io/api/image/2/level1.json", {
+              "formats" : [ "jpg" ],
+              "qualities" : [ "native", "color", "gray" ],
+              "supports" : [ "regionByPct", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "rotationBy90s", "mirroring", "gray" ]
+            } ]
+          },
+          "height" : 3568,
+          "width" : 2560
+        },
+        "on" : "http://19551dce-d34e-4b77-92f6-8b0dc3d7bc00"
+      } ],
+      "related" : "",
+      "seeAlso" : {
+        "@id" : "https://digi.kansalliskirjasto.fi/sanomalehti/binding/1047467/page-2.xml",
+        "profile" : "http://www.loc.gov/standards/alto/ns-v4#",
+        "format" : "text/xml"
+      }
+    }, {
+      "@id" : "http://cbfde082-df83-4ed3-923c-3343e0ffec55",
+      "@type" : "sc:Canvas",
+      "label" : "Page 3",
+      "height" : 3568,
+      "width" : 2528,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://6c35f3d6-34f1-4074-bf75-8384d019e59a",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.europeana.eu/image/FLYJ63OXQNU4LAYUW4GP7MXGAYQHASXB3QPZ5YJBBT2EHZ2WX5ZA/presentation_images/c7f11460-020b-11e6-a696-fa163e2dd531/node-4/image/NLF/Keski-Suomi/1906/09/29/19060929_00002/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.europeana.eu/image/FLYJ63OXQNU4LAYUW4GP7MXGAYQHASXB3QPZ5YJBBT2EHZ2WX5ZA/presentation_images/c7f11460-020b-11e6-a696-fa163e2dd531/node-4/image/NLF/Keski-Suomi/1906/09/29/19060929_00002",
+            "profile" : [ "http://iiif.io/api/image/2/level1.json", {
+              "formats" : [ "jpg" ],
+              "qualities" : [ "native", "color", "gray" ],
+              "supports" : [ "regionByPct", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "rotationBy90s", "mirroring", "gray" ]
+            } ]
+          },
+          "height" : 3568,
+          "width" : 2528
+        },
+        "on" : "http://cbfde082-df83-4ed3-923c-3343e0ffec55"
+      } ],
+      "related" : "",
+      "seeAlso" : {
+        "@id" : "https://digi.kansalliskirjasto.fi/sanomalehti/binding/1047467/page-3.xml",
+        "profile" : "http://www.loc.gov/standards/alto/ns-v4#",
+        "format" : "text/xml"
+      }
+    }, {
+      "@id" : "http://5a12c2a1-6fb8-456b-b668-0fd272cfaba4",
+      "@type" : "sc:Canvas",
+      "label" : "Page 4",
+      "height" : 3568,
+      "width" : 2528,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://99965e55-fab1-4029-a342-59671dab13de",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.europeana.eu/image/FLYJ63OXQNU4LAYUW4GP7MXGAYQHASXB3QPZ5YJBBT2EHZ2WX5ZA/presentation_images/c7f11460-020b-11e6-a696-fa163e2dd531/node-4/image/NLF/Keski-Suomi/1906/09/29/19060929_00003/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.europeana.eu/image/FLYJ63OXQNU4LAYUW4GP7MXGAYQHASXB3QPZ5YJBBT2EHZ2WX5ZA/presentation_images/c7f11460-020b-11e6-a696-fa163e2dd531/node-4/image/NLF/Keski-Suomi/1906/09/29/19060929_00003",
+            "profile" : [ "http://iiif.io/api/image/2/level1.json", {
+              "formats" : [ "jpg" ],
+              "qualities" : [ "native", "color", "gray" ],
+              "supports" : [ "regionByPct", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "rotationBy90s", "mirroring", "gray" ]
+            } ]
+          },
+          "height" : 3568,
+          "width" : 2528
+        },
+        "on" : "http://5a12c2a1-6fb8-456b-b668-0fd272cfaba4"
+      } ],
+      "related" : "",
+      "seeAlso" : {
+        "@id" : "https://digi.kansalliskirjasto.fi/sanomalehti/binding/1047467/page-4.xml",
+        "profile" : "http://www.loc.gov/standards/alto/ns-v4#",
+        "format" : "text/xml"
+      }
+    } ]
+  } ],
+  "structures" : [ ]
+}
