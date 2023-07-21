@@ -1,26 +1,197 @@
 {
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://TuulaP.github.io/nlf-digi-iiif-demo/manifests/manifest_keskisuomi.json",
-  "@type" : "sc:AnnotationList",
-  "resources" : [ {
-    "@id" : "https://digi.kansalliskirjasto.fi/sanomalehti/binding/1047467?page=1&ocr=true/supplementing/t0",
-    "@type" : "oa:Annotation",
-    "motivation" : "sc:painting",
-    "resource" : {
-      "@type" : "cnt:ContentAsText",
-      "format" : "text/plain",
-      "chars" : "No 114.\r\n\r\nLehti ilmestyy joka arki tiistai, torstai ja lauwantai kello 8 a.p. — Tilaushinta koko wuodelta 4 mk., kolmelta neljännekseltä 3 mk., puolelta wuodelta 2 mk. ja kuukaudelta 50 penniä.\r\n\r\nLääkärion vastaanottoajat:\r\n\r\nT:ri Emd Leander arkipäivinä kello 1 9—11 e. pp. sekä 4-6 j. pp; pyhäpäivinä kello 10—12 e. pp,\r\n\r\nIOMOr H. E. Nisen arkipäivinä k:lo 8—12 e. pp. ja k:lo 4—6 j. pp.; pyhäpäivinä k:lo 1/2 9—19 e pp. Tohtori G. Palander, sairaalan lääkäri arkipäivinä kello 9—11 a. Pa ja,56 j. pp.; pyhäpäivinä k:lo 0—11 a.-p.\r\n\r\nEläinlääkäri O. Wuoria,\r\n\r\nKaupp. Wilh. Wessman'in ont. talossa vataan varmimmin kello 9 11 a.p\r\n\r\nHj. Hollmérus'en Lakiaslaintoimisto.\r\n\r\nRondoskaup. Aug. Th. Laurénin talossa vastapäätä rautatienasemata. Avoinna k:lo 10—2.\r\n\r\nVaratuomari O. Rutanen,\r\n\r\nasianajaja lyväskyi ssä Asunto Havun talo Nikolzinkadun varrella. 1671\r\n\r\nAsianajotoimisto Waasassa\r\n\r\nHasselblatt & Boxström.\r\n\r\nOmist. Varatuomarit Igsatius, Pehkonen ja Schmaltz. 179\r\n\r\nLakiasiaintoimisto Keuruulla K. A.Häyrysen Asianajotoimisto\r\n\r\nMatkustaa muuallekin. 2497\r\n\r\nLakiasiain- ja liotariotoimisto von Troil, Mannil & J. Malmberg\r\n\r\ntsaa-\r\n\r\nAsianajaja\r\n\r\nVILHO SELINHEIMO,\r\n\r\nHelsinki, Iso Robertinkatu n:o 7.\r\n\r\nKALEVA. Maan vanhin henkivakuutusyhtiö. Uhtta: Kansanvakuutus. Paikallisagentit: F. Hedberg ja H. F. Helkkilä, Telek. 81. 38\r\n\r\nHerdi- ja Falurakrutus Isskeyhtiö  aa ottaa vastaan vakuutuksia Jyväskylässä Asiamies Emä Allqvist. 273\r\n\r\nKuonekaluliike\r\n\r\nAlituinen varasto Huonekaluja\r\n\r\nja Peilinlasia, y. m.\r\n\r\nH. Majakoski\r\n\r\nJyväskylän Säästöpankin\r\n\r\nTalletuskorko 5% Lainauskorko 6% Johtokunnan puolesta; H. F. Flander.\r\n\r\n(Sml.1.)\r\n\r\nJyväskylän kunnan Säästöpankki\r\n\r\npidetään auki kaikkina arki lauvantaina k:lo 9 a.-.p. Talletuskorko 5 %. Lainauskorko 6 %. Säästöpankin Joutokunta.\r\n\r\nH. W. Schalin'in Pianomakasiini\r\n\r\nHelsingissä, Aleksanterinkatu N:o 50\r\n\r\nSuurin valikoima maailman kuuluisimmista pianotehtaista, flyygeleitä ja pianinoja sekä urkuharmooneja kotia ja kouluja varton. Halvat hinnat, edulliset maksuehdot. Asiamies Keski-Suomea varten urkuri Joh. Tommila, Jyväskylässä. (1543)\r\n\r\n\r\n\r\nRuumisarkkuja, hienosti ja yksinkertaises- kertaisesti vaatetettuja ja vaatetta-\r\n\r\nmattomia, myy varastosta\r\n\r\nW. Hunninen, (Puhelin. 157) Jyväskylässä, 57 98—0\r\n\r\n834\r\n\r\n1906.\r\n\r\nLehden konttori on asioitsija A. Fagerholmin talossa, wastapäätä rautatien asemaa. Ilmoitushinta ensi siwulla 20 ja wiimeisellä 15 penniä pieneltä riwiltä.\r\n\r\nMatkustavat maasenduille. 25\r\n\r\nHUONEKALUJA TUKKISAKSTA\r\n\r\nja tilauksia vastaanotetaan\r\n\r\np j. A. SIREHIUS. Puhelu 120. 1415\r\n\r\nKirjansitoja A. PELLIKKA,\r\n\r\nlyväskylässä.\r\n\r\nKaikkia ammattiin kuuluvia töitä otan tehdäksoni. Seinäkarttoja kiinnitetään kankaalie ja kiillotetaan. Taulun kohyslistoja suuri varasto. Salkkuja (portföljejä) valmistetaan.\r\n\r\nHuom.! Lainakirjastojen kirjoja sidotaan huokealla. 960\r\n\r\nHalpa ja pikainen\r\n\r\nTavaraintoimisto\r\n\r\nMäntyluodolla ja Porissa. Telef. N:o 10. Telef. N:o 157 ja 369 Oscar Heine & C:o. 1607\r\n\r\nKeski-Suomen Kotiteos-aitta lyväskylässä välittää, ostaa ja myy\r\n\r\nkaikellaisia kotiteollisuustuotteita\r\n\r\nmiesten ja naisten käsitöitä, etupäässä Keski-Suomesta. Maalaiset tuokaa teoksianne näytteille! 64\r\n\r\nArkkitehti — lyväskylässä Yrjö Blomstedt\r\n\r\n(Puhelin N:o 131) Suorittaa kaikkia ammattialaan kuuluvia tehtäviä. Matkustaa maaseuduille.\r\n\r\nSaarnawuorot.\r\n\r\nsaornea:\r\n\r\nRippisaarna kello 6 j. p.p.\r\n\r\nMikkelinpäiwänä. Päiwäsaarna kello 10 e. pp. Katekismussaarna kello 5 j. pp. kirkkoh. Wanne Kolehti Ylioppilaille.\r\n\r\nKeskiwiikkona: Raamatunselitys kello 6 j. pp. kirkkoh. Wanne\r\n\r\nKANSAILIS-OSIKEPANKAI\r\n\r\nottaa vastaan rahoja korkoa kasvamaan talletustilille, Talletuskontto-\r\n\r\nkurantiile. Välittää korkomaksuja\r\n\r\nSuomen Hypoteekkiyhdistykselle, Valtiokonttoriin y. m. rahalaitoksiin. Ostaa ulkomailla maksettavia voi-\r\n\r\nynnä muita vekseleitä, sekä toimit-\r\n\r\ntaa kaikkia muita säännölliseen pankkiliikkeeseen kuuluvia asioita. 2490 1—3\r\n\r\nK. I. Meriö,\r\n\r\nJyväskylässä Nikolainkatu 89. — Telefooni 56\r\n\r\nAwioliittoon kuul.: Torpanpoika Otto Wille Waris, Rautalammilta ja taloll. tytär Maria Kukkonen.\r\n\r\nSaarnawuorot.\r\n\r\nJywäskylän maaseurakunnan kirkossa\r\n\r\nsaarnaa:\r\n\r\nMikkelinpäiwänä. Päiwäsaarna klo 10 e. pp.\r\n\r\nw. t. k. I. Arra\r\n\r\nOttaa vastaan polkupyörien korjauksia sekä kaikkia rakennus- ja yksityisille aloille kuuluvia pelti- ja vaskisepän töitä.\r\n\r\nLAKIASIAINTOIMISTO\r\n\r\nGUMMERUS & BIÖRKSTEN — Jyväskylässä toimittaa huolellisesti kaikenlaatuisia asian-ajo-, liikevälitystehtäviä\r\n\r\nKonttoori Waltosen kadulta. Avoinna 10—2. 1715\r\n\r\ntalossa torin kulmassa. Telefooni n:o 183.\r\n\r\nrahainperimis-\r\n\r\nKäytävä kauppa-\r\n\r\nUudenaikaisia Berliiniläisiä Lida Forsblom'ille. 2458 3-3\r\n\r\nHUOM.! Polkupyöriä otetaan säilytettäväksi talven yli. 2281 8-10\r\n\r\nKurssin Ranskankielessä antaa allekirjottanut jos riittävä määrä osanottajia ilmaantuu. Ilmoittautumista varten tavataan allekirjoittanut asunnossaan rouva Sulinin talossa k:lo 4—5 j. pp. Rosalle Collan. (Sml.1.1,10.) 2496 1—1\r\n\r\nJyväskylän Työväenyhdistyksen ensi Marraskuun\r\n\r\nalussa pidettäviä\r\n\r\nKESATANSTA SKSulsva varten talonsa velan lyhentämiseksi, ovat seuraavat henkilöt hyväntahtoisesti luvanneet voittoja kerätä:\r\n\r\nJiirilääkäri. Illekirjoittanut ottaa wastaan sairaita Karstulassa apteekilla tiistaina 2 p:nä lokakuuta k:lo 11:lta sekä Kiwijärwellä apreekilla lokakuun 3 p:nä k:lo 1:ltä päiwällä. C. I. Werén. (Sml.l.1,12.) 2496 1—1\r\n\r\nNeidit\r\n\r\nAnna Oittinen, Alma Aaltonen, Alice Girsen,\r\n\r\nEster Mäkinen, Ellen Heiskanen, Fanny Mannelin, Hilma Rajala, Hilma Hyvönen, Hilma Tiilikainen, Irja Savolainen, Ida Kanerva, Ida Hyrsky, Ida Kallio,\r\n\r\nottaa wastaan joko perheissä tai kotona. Olga Sundén, Mäkimatinmäellä Kalliossa (Sml.1.1,6.) 2497 1—1\r\n\r\nIda Leinonen, Ida Lampinen Lyyli Puolakka, Maissi Kukkonen, Olga Wikman, Olga Blom,\r\n\r\nN. W & H:llä on jäsentenkokous lauN. 3. S. Y.til wantaina kello puoli 8 j. pp. ja raamatunkeskustelua sunnuntaina klo 6 j. pp. yhdist. huoneessa. 2492 1—1\r\n\r\nRunsa Sinijärvi, Wiivi Rutanen, Wiljos Lindén.\r\n\r\nRouvat\r\n\r\nN. M. K. Y:llä Sunnuntaina rukouskokous k:lo puoli 9 a. Toweri iltama k:lo 6 j. pp. kaikkien jäsenien läsnä olo wälttämätön uudet terwetulleita. 2501\r\n\r\nTilda Moriö, Maria Oksanen, Hytönen,\r\n\r\nIda Tiilikainen, Anna Niemeläinen. Aino Takala. Anna Aho, Ellen Heikkilä, Edith Reino, Edna Mänty, Fina Halme Hilja Ollilainen, Hulda Makkonen, Hilma Penttinen, Helmi Kivimäki, Ida Ståhlberg, Ida Lahtinen, Ida Kettunen, Ida Sorsa. Ida Koskiniemi, Ida Suomela, Ida Erola, Ida Spets, Ilma Ahlqvist, Lilli Toivainen, Maria Wäisänen, Matilda Hyvönen, Maria Halttunen, Olga Riekkola, Olga Keilän, Olga Mikkilä, Ruusa Kumpunen, Rauha Seppänen,\r\n\r\nSilja Takkula, Saima Kallio, Tilda Närhi, Tilda Kaistinen, Tilda Tuominen,\r\n\r\nHerrat\r\n\r\nA. Kilpi, A. Kanervo, Emil Leinonen, H. Saarinen,\r\n\r\nIlmari Meriö, J. Wilppunen,\r\n\r\nMuilta paikkakunnilto:\r\n\r\nJ. Sorri, Kaarle Survonen, Kaarle Salovaara, Kaarle Rutanen, Kaarle Rutanen, Matti Wierto, Urho Loppänen. Oskari Valkola, Oskari Niinikoski, Toivo Järvinen, Taneli Kulmala, Väinö Tikander. Erland Seppänen.\r\n\r\n1—1\r\n\r\nNeidit\r\n\r\nRouvat\r\n\r\nHerman Peipponen Hkoski, Hannes Blomqvist H:sinki, Tyyne Karpio Mattila. R. Huovelin Taulumäki, A. Keurulainen Waasa, Wilho Karjalainen Waasa. Kaarle Boman Kuokkala.\r\n\r\nKyytävänä:\r\n\r\nAlma Björkqvist H:koski. Elli Leppänen, Kuokkala, Ida Jokinen, Äänekoski, Hilma Nieminen Helsinki, Ansh. Kuokkanen T:mäki,\r\n\r\nRukonshuoneella (Bethel) sunnuntaina 30 pnä Nuorten liiton kokous klo puoli 5 i.p., kello 6 i. p. yleinen kokous\r\n\r\nHerrat\r\n\r\nSml. 2 k 1 s. 35 r\r\n\r\nNyt tullut! suuri valikoima värillisiä\r\n\r\n1—1\r\n\r\nHuveja.\r\n\r\n\r\n\r\nJimoituksia.\r\n\r\nHassan Asianajotolmisto ommastajat: John Sahlström. J. W. Broman. Varatuomareita Ajaa asioita kaikkialla maanime ali- ja ylioikeuksissa sekä suorittaa kaikkia asianajoliikkeeseen kuuluvia tehtäviä. Sähköosote: Sahlström. Os.: Raatihuoneenk. N:o 18. Puhelin N:o 335.  1299 50—0\r\n\r\nSukka- ja keisari-\r\n\r\nuuden eduskuntalain voimaan astumisen johdosta toimitaan\r\n\r\nka ARHAA\r\n\r\nLida Forgblag'ille.\r\n\r\nKUNNALLISTALOLLA maanantaina lokak. 1 p:nä. OHIJELMA:\r\n\r\nTorvisoittoa, Puhe,\r\n\r\nKöörilaulua\r\n\r\nlyväskylässä syysk. 29 p.\r\n\r\n2493\r\n\r\nTorvisoittoa, Esitelmä. Köörilaulua, Maamme.\r\n\r\nHävittäkää syöpäläiset hyönteispulverilla IROLIN\r\n\r\npatentti ruisku pussissa (hyvin käytännölliset). PIROLA omasti vahingotonta kaikenlaisten syöpäläisten hävittämiseen, kuten kirppujen, luteiden, koiden, russakoiden y. m. y. m. PIROLITkaiki paremmin varustetuissa apteekeissa rohdos- ja muissa myymälöissä. Summittain O. Y. Uusi Roh2529 31—0\r\n\r\nMaanwiljelysseurat ja pieniwiljelyksen kohottaminen.\r\n\r\nHalutaan ostaa! hywiä kylwöheiniä ja ruumenia sekä kanroja ostaa E. Blom. 297 103—0\r\n\r\nEnsi maanantaina alkaa Helsingissä maanwiljelys- ja talousseurain edustajain wiides kokous. Tärkeimpiä kysymyksiä, mitä tässä kokouksessa tullaan pohtimaan, on epäilemättä kysymys, millä tawoin maanwiljelys- ja talousseurat woisiwat entistä tehokkaammin toimia pieniwiljelyksen kohottamiseksi maassamme. Tämän kysymyksen on lähettänyt Uudenmaan ja Hämeen läänien maanwiljelysseura O. S. Ruohtulan alustamana. Teemme seuraawassa lyhyen katsauksen pohjustukseen, joka ansaitsee tulla laajemmaltakin huomioon otetuksi.\r\n\r\n1—2\r\n\r\nAlkaa k:lo 8 ill. Sisäänpääsymaksut: numeroidut paikat 1 mk., muut 50 p:iä. (Sml.1.1,25) 2499 1—1\r\n\r\nLaskuplankettia\r\n\r\nPrat virkamiehat! Vopaskirje-pevarsaalla rahalähetyksiä varten, Keivi-Suoman konttarissa.\r\n\r\nloihin ja kuinka wallinneitten katsantokantojen ja olosuhteitten takia pieniwiljelijät owat pitäneet seurain toimia kokonaan itselleen kuulumattomina, kehoittaa alustaja nyt kääntämään huomiota näihinkin wiljelijöihin, jotka muuten itsekin alkawat herätä uneliaisuudestaan ja huomaawat, missä määrin he owat jälellä parempiosaisista, kuinka wähän heidän hywäkseen on todellisuudessa työskennelty.\r\n\r\nMillä tawoin sitten maanwiljelysseurat woiwat työskennellä pieniwiljelyksemme hywäksi, jotta jotain ehjää ja terweellistä syntyisi? Tärkeimmät keinot alustajasta owat: lyhytaikaisten, wiikon tai kaksi kestäwien, kurssien toimeenpaneminen; kunnollisten kiertäwien neuwojien palkkaaminen; retkeilyt; kokonaisten maatalouksien palkitsemiset ja osuuskassat. Luentokursseja warten olisi maamiesseurain hankittawa paikko piirissään ja seuran toimimiesten olisi kehoitettawa erittäinkin pieniwiljelijöitä kursseihin saapumaan. Luennoitsijoina toimiwat emäseuran wirkailijat sekä muiden maanwiljelyksen kohottamiseksi työskentelewien seurojen ja yhdistysten neuwojat. Luentoja olisi pidettäwä kaikilta maatalouden aloilta ja niiden jälkeen keskusteltawa esitellyistäaineista. Näihin woisi myös yhdistää käyntejä naapurien talouksia katsomassa.\r\n\r\nKesäaikana tulisi kestäwien neuwojien käydä erittäinkin niiden luona, jotka talwella owat ottaneet kursseihin osaa, ja antaa neuwoja kaikellaisten maataloustöiden toimittamisessa. Warsin tehokasta olisi, jos neuwoja työaseeseen tarttumalla osoittaa miten mikin työ on tehtäwä, miten kutakin työkalua käsiteltäwä. Kun kiertäwien neuwojien tehokas järjestäminen on nykyisin seuroille mahdotonta, tulisi seurojen tehdä yhteinen apurahan pyyntö hallitukselle. kesäisin owat sangen tärkeät ja opettawia ammattiin perehtyneen opettajan johdolla. Tähän asti toimeenpannut suurtiloille suunnatut, pitkämatkaiset ja ylen nopeat retkeilyt, joihin pieniwiljelijät eiwät sanottawasti ole woineet ottaa osaa, owat muodostettawat toisellaisiksi. Retkeilyt olisiwat tehtäwät pienemmällä alalla, esim. oman piirin sisällä, ja pääasiassa olisi tarkastettawa mallikelpoisia pieniwiljelyksiö. Jäseniksi olisi saatawa ensin edistyneempiä pieniwiljelijöitä ja retkeilyjen johtajiksi perehtyneitä ammattimiehiä, niinkuin maanwilj. koulujen opettajia, neuwojia tai etewiä maanwiljelijöitä. Awustukseksi tulisi seurain antaa matkaraha tai ainakin osa siitä.\r\n\r\nKeski-Suomen konttorissa.\r\n\r\n\r\n\r\nHuomautettuaan ensin, kuinka wiljelys- ja talousseurat owat näihin saakka kohdistaneet toimintansa etupäässä suurempiin ja keskikokoisiin ti-\r\n\r\n277\r\n\r\n\r\n\r\nLauwantaina Syyskuun 29 p:nä.\r\n\r\nToimittaja: Gustaf Swahn,\r\n\r\nwastaawa."
-    },
-    "on" : "http://f2d8b164-f95a-4aa9-a12a-58f2f02d6800#xywh=111,171,2142,70"
+  "@type" : "sc:Manifest",
+  "label" : "Keski-Suomi 29.9.1906",
+  "metadata" : [ {
+    "label" : "Attribution",
+    "value" : "National Library of Finland"
   }, {
-    "@id" : "https://digi.kansalliskirjasto.fi/sanomalehti/binding/1047467?page=1&ocr=true/supplementing/t1",
-    "@type" : "oa:Annotation",
-    "motivation" : "sc:painting",
-    "resource" : {
-      "@type" : "cnt:ContentAsText",
-      "format" : "text/plain",
-      "chars" : "Lehti ilmestyy joka arki tiistai, torstai ja lauwantai kello 8 a.p."
-    },
-    "on" : "http://f2d8b164-f95a-4aa9-a12a-58f2f02d6800#xywh=113,246,2141,68"
+    "label" : "Material type",
+    "value" : "Newspaper"
+  }, {
+    "label" : "ISSN",
+    "value" : "1457-4640"
+  } ],
+  "description" : [ {
+    "@value" : "Keski-Suomi 29.9.1906",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/4.0/",
+  "attribution" : "National Library of Finland",
+  "logo" : "https://digi.kansalliskirjasto.fi/images/logos/logo_fi_darkblue.png",
+  "sequences" : [ {
+    "@id" : "http://30ebab0e-1080-4951-a661-19c8456b4860",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://f2d8b164-f95a-4aa9-a12a-58f2f02d6800",
+      "@type" : "sc:Canvas",
+      "label" : "Page 1",
+      "height" : 3584,
+      "width" : 2544,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://3dbd5226-4348-4d73-bb38-b482c7df154a",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.europeana.eu/image/FLYJ63OXQNU4LAYUW4GP7MXGAYQHASXB3QPZ5YJBBT2EHZ2WX5ZA/presentation_images/c7f11460-020b-11e6-a696-fa163e2dd531/node-4/image/NLF/Keski-Suomi/1906/09/29/19060929_00000/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.europeana.eu/image/FLYJ63OXQNU4LAYUW4GP7MXGAYQHASXB3QPZ5YJBBT2EHZ2WX5ZA/presentation_images/c7f11460-020b-11e6-a696-fa163e2dd531/node-4/image/NLF/Keski-Suomi/1906/09/29/19060929_00000",
+            "profile" : [ "http://iiif.io/api/image/2/level1.json", {
+              "formats" : [ "jpg" ],
+              "qualities" : [ "native", "color", "gray" ],
+              "supports" : [ "regionByPct", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "rotationBy90s", "mirroring", "gray" ]
+            } ]
+          },
+          "height" : 3584,
+          "width" : 2544
+        },
+        "on" : "http://f2d8b164-f95a-4aa9-a12a-58f2f02d6800"
+      } ],
+      "related" : "https://digi.kansalliskirjasto.fi/sanomalehti/binding/1047467/page-1.xml",
+      "seeAlso" : {
+        "@id" : "https://digi.kansalliskirjasto.fi/sanomalehti/binding/1047467/page-1.xml",
+        "profile" : "http://www.loc.gov/standards/alto/v4/alto.xsd",
+        "format" : "text/xml",
+        "label" : "METS-ALTO XML"
+      }
+    }, {
+      "@id" : "http://19551dce-d34e-4b77-92f6-8b0dc3d7bc00",
+      "@type" : "sc:Canvas",
+      "label" : "Page 2",
+      "height" : 3568,
+      "width" : 2560,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://db22f87c-a6f8-47a2-9f7a-9a4a0af73c94",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.europeana.eu/image/FLYJ63OXQNU4LAYUW4GP7MXGAYQHASXB3QPZ5YJBBT2EHZ2WX5ZA/presentation_images/c7f11460-020b-11e6-a696-fa163e2dd531/node-4/image/NLF/Keski-Suomi/1906/09/29/19060929_00001/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.europeana.eu/image/FLYJ63OXQNU4LAYUW4GP7MXGAYQHASXB3QPZ5YJBBT2EHZ2WX5ZA/presentation_images/c7f11460-020b-11e6-a696-fa163e2dd531/node-4/image/NLF/Keski-Suomi/1906/09/29/19060929_00001",
+            "profile" : [ "http://iiif.io/api/image/2/level1.json", {
+              "formats" : [ "jpg" ],
+              "qualities" : [ "native", "color", "gray" ],
+              "supports" : [ "regionByPct", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "rotationBy90s", "mirroring", "gray" ]
+            } ]
+          },
+          "height" : 3568,
+          "width" : 2560
+        },
+        "on" : "http://19551dce-d34e-4b77-92f6-8b0dc3d7bc00"
+      } ],
+      "related" : "",
+      "seeAlso" : {
+        "@id" : "https://digi.kansalliskirjasto.fi/sanomalehti/binding/1047467/page-2.xml",
+        "profile" : "http://www.loc.gov/standards/alto/v4/alto.xsd",
+        "format" : "text/xml",
+        "label" : "METS-ALTO XML"
+      }
+    }, {
+      "@id" : "http://cbfde082-df83-4ed3-923c-3343e0ffec55",
+      "@type" : "sc:Canvas",
+      "label" : "Page 3",
+      "height" : 3568,
+      "width" : 2528,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://6c35f3d6-34f1-4074-bf75-8384d019e59a",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.europeana.eu/image/FLYJ63OXQNU4LAYUW4GP7MXGAYQHASXB3QPZ5YJBBT2EHZ2WX5ZA/presentation_images/c7f11460-020b-11e6-a696-fa163e2dd531/node-4/image/NLF/Keski-Suomi/1906/09/29/19060929_00002/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.europeana.eu/image/FLYJ63OXQNU4LAYUW4GP7MXGAYQHASXB3QPZ5YJBBT2EHZ2WX5ZA/presentation_images/c7f11460-020b-11e6-a696-fa163e2dd531/node-4/image/NLF/Keski-Suomi/1906/09/29/19060929_00002",
+            "profile" : [ "http://iiif.io/api/image/2/level1.json", {
+              "formats" : [ "jpg" ],
+              "qualities" : [ "native", "color", "gray" ],
+              "supports" : [ "regionByPct", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "rotationBy90s", "mirroring", "gray" ]
+            } ]
+          },
+          "height" : 3568,
+          "width" : 2528
+        },
+        "on" : "http://cbfde082-df83-4ed3-923c-3343e0ffec55"
+      } ],
+      "related" : "",
+      "seeAlso" : {
+        "@id" : "https://digi.kansalliskirjasto.fi/sanomalehti/binding/1047467/page-3.xml",
+        "profile" : "http://www.loc.gov/standards/alto/v4/alto.xsd",
+        "format" : "text/xml",
+        "label" : "METS-ALTO XML"
+      }
+    }, {
+      "@id" : "http://5a12c2a1-6fb8-456b-b668-0fd272cfaba4",
+      "@type" : "sc:Canvas",
+      "label" : "Page 4",
+      "height" : 3568,
+      "width" : 2528,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://99965e55-fab1-4029-a342-59671dab13de",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.europeana.eu/image/FLYJ63OXQNU4LAYUW4GP7MXGAYQHASXB3QPZ5YJBBT2EHZ2WX5ZA/presentation_images/c7f11460-020b-11e6-a696-fa163e2dd531/node-4/image/NLF/Keski-Suomi/1906/09/29/19060929_00003/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.europeana.eu/image/FLYJ63OXQNU4LAYUW4GP7MXGAYQHASXB3QPZ5YJBBT2EHZ2WX5ZA/presentation_images/c7f11460-020b-11e6-a696-fa163e2dd531/node-4/image/NLF/Keski-Suomi/1906/09/29/19060929_00003",
+            "profile" : [ "http://iiif.io/api/image/2/level1.json", {
+              "formats" : [ "jpg" ],
+              "qualities" : [ "native", "color", "gray" ],
+              "supports" : [ "regionByPct", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "rotationBy90s", "mirroring", "gray" ]
+            } ]
+          },
+          "height" : 3568,
+          "width" : 2528
+        },
+        "on" : "http://5a12c2a1-6fb8-456b-b668-0fd272cfaba4"
+      } ],
+      "related" : "",
+      "seeAlso" : {
+        "@id" : "https://digi.kansalliskirjasto.fi/sanomalehti/binding/1047467/page-4.xml",
+        "profile" : "http://www.loc.gov/standards/alto/v4/alto.xsd",
+        "format" : "text/xml",
+        "label" : "METS-ALTO XML"
+      }
+    } ]
+  } ],
+  "structures" : [ ],
+  "annotations" : [ {
+    "id" : "https://example.org/iiif/book1/page/manifest/1",
+    "type" : "AnnotationPage",
+    "items" : [ {
+      "id" : "https://example.org/iiif/book1/page/manifest/a1",
+      "type" : "Annotation",
+      "motivation" : "commenting",
+      "body" : {
+        "type" : "TextualBody",
+        "language" : "en",
+        "value" : "I love this manifest!"
+      },
+      "target" : "https://example.org/iiif/book1/manifest"
+    } ]
+  } ],
+  "otherContent" : [ {
+    "@id" : "https://tuulap.github.io/nlf-digi-iiif-demo/annotations/keskisuomi_anno.json",
+    "@type" : "sc:AnnotationList",
+    "label" : "Text of page 1"
   } ]
 }
