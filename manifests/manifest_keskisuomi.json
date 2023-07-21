@@ -169,5 +169,25 @@
       }
     } ]
   } ],
-  "structures" : [ ]
+  "structures" : [ ],
+  "annotations" : [ {
+    "id" : "https://example.org/iiif/book1/page/manifest/1",
+    "type" : "AnnotationPage",
+    "items" : [ {
+      "id" : "https://example.org/iiif/book1/page/manifest/a1",
+      "type" : "Annotation",
+      "motivation" : "commenting",
+      "body" : {
+        "type" : "TextualBody",
+        "language" : "en",
+        "value" : "I love this manifest!"
+      },
+      "target" : "https://example.org/iiif/book1/manifest"
+    } ]
+  } ],
+  "otherContent" : [ {
+    "@id" : "https://iiif.wellcomecollection.org/annotations/v2/b18035723/b18035723_0006.JP2/line",
+    "@type" : "sc:AnnotationList",
+    "label" : "Text of page 3"
+  } ]
 }
