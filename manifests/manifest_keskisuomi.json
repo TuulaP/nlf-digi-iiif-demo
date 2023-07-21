@@ -5,7 +5,7 @@
   "label" : "Keski-Suomi 29.9.1906",
   "service" : {
     "profile" : "http://iiif.io/api/search/0/search",
-    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/3314750/7116ba43841993facfc9428889940b8d/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/3314750/433a216030dba663b2a513261cd54bf6/search",
     "@context" : "http://iiif.io/api/search/0/context.json"
   },
   "metadata" : [ {
