@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://TuulaP.github.io/nlf-digi-iiif-demo/annotations/keskisuomi_anno.json" ],
+  "@id" : "https://TuulaP.github.io/nlf-digi-iiif-demo/annotations/collection.json",
+  "label" : "All annotations loaded in TuulaP/nlf-digi-iiif-demo project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
